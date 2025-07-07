@@ -8,7 +8,7 @@ This project is a fullstack AI-powered assistant built using **LangChain**, **Fl
 
 -   Connects to real Shopify Admin REST API (GET-only)
 -   LangChain ReAct Agent with memory and reasoning
--   Provides summaries, tables, and (optional) charts
+-   Provides summaries, tables, and Sometimes charts
 -   Uses custom tools: Shopify API + Python REPL for logic
 -   Full frontend chat interface using React
 -   Returns Markdown-formatted responses
