@@ -133,7 +133,7 @@ Question: {input}
 - Show a table of revenue by city.
 - Who are my repeat customers?
 - What is the AOV (Average Order Value) trend this month?
-- (Bonus) Plot a graph of order volume over the past 4 weeks.
+- Plot a graph of order volume over the past 4 weeks.
 
 ---
 
